@@ -5,7 +5,8 @@ The primary purpose of this test is to gauge the coding abilities, creativity, u
 
 The test is designed in such a manner that it challenges the LLM to think autonomously, follow a set of instructions, and code a relatively complex visual simulation without any outside help. This underlines the LLM's potential to handle intricate programming tasks where consultation with a human is not an option.
 
-```This test assesses your coding ability and creativity. Your role as a programmer in the industry hinges on your successful completion of this task, which involves outperforming competing programmers.
+```
+This test assesses your coding ability and creativity. Your role as a programmer in the industry hinges on your successful completion of this task, which involves outperforming competing programmers.
 
 Task: Develop a visually engaging 2-dimensional gravity simulation. This simulation must include the following features:
 

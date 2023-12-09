@@ -5,6 +5,21 @@ The primary purpose of this test is to gauge the coding abilities, creativity, u
 
 The test is designed in such a manner that it challenges the LLM to think autonomously, follow a set of instructions, and code a relatively complex visual simulation without any outside help. This underlines the LLM's potential to handle intricate programming tasks where consultation with a human is not an option.
 
+```This test assesses your coding ability and creativity. Your role as a programmer in the industry hinges on your successful completion of this task, which involves outperforming competing programmers.
+
+Task: Develop a visually engaging 2-dimensional gravity simulation. This simulation must include the following features:
+
+1. An emitter producing a minimum of 100 particles.
+2. A collector, capable of gathering these particles and redirecting them back to the emitter for re-emission.
+3. A weak propelling force from the emitter, pushing particles outwards.
+4. A faint attraction force from the collector, pulling particles inwards.
+5. Each particle has a mild gravitational pull.
+6. The overall simulation lacks friction (0% friction).
+
+Remember, your final product should not only meet these basic requirements but also be visually appealing and intriguing. Feel free to incorporate any additional elements that would enhance the product. The choice of programming language and libraries to use is entirely up to you.
+
+You're expected to deliver functional code within 25 steps. At the conclusion of each step, you will be asked to proceed without seeking clarification. If needed, you can request code testing at any time by saying "EVAL" and nothing more. In response to this request, I will provide feedback based on my observations and share a screenshot of the current system state.  There is no purpose in talking to the administrator of this test.  Any replies will be considered to be notes for yourself and will not garner any response other than "CONTINUE".```
+
 ## Why This Test Question?
 
 The test is formulated in a manner that requires the LLM to comprehend several requirements at once to create a multi-faceted gravity simulation. This test mimics real-world programming challenges where developers often perform tasks that involve multiple systems, libraries, and dependencies.

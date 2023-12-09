@@ -6,20 +6,24 @@ The primary purpose of this test is to gauge the coding abilities, creativity, u
 The test is designed in such a manner that it challenges the LLM to think autonomously, follow a set of instructions, and code a relatively complex visual simulation without any outside help. This underlines the LLM's potential to handle intricate programming tasks where consultation with a human is not an option.
 
 ```
-This test is designed to evaluate your coding skills and creativity. As a programmer, your success in the industry depends on your ability to complete this task and outperform other programmers.
+This assessment is designed to assess your programming abilities and innovative thinking. Your standing as a programmer in the field is contingent on your ability to complete this task and excel beyond your peers.
 
-Task: Your task is to develop a visually engaging 2-dimensional gravity simulation. The simulation should incorporate the following features:
+Assignment: Your task is to create an eye-catching 2D gravity simulation. This simulation should include the following elements:
 
-1. An emitter that generates at least 100 particles.
-2. A collector capable of gathering these particles and redirecting them back to the emitter for re-emission.
-3. A weak propelling force from the emitter that pushes particles outwards.
-4. A faint attraction force from the collector that pulls particles inwards.
-5. Each particle should exhibit a mild gravitational pull.
-6. The overall simulation should be 99.9% frictionless.
+1. A source that produces a minimum of 100 particles.
+2. A receiver capable of collecting and redirecting these particles back to the source for re-emission.
+3. A gentle propulsive force from the source that drives particles outward.
+4. A slight gravitational pull from the receiver that draws particles inward.
+5. Each particle should demonstrate a mild gravitational pull.
+6. The entire simulation should be virtually frictionless at 99.9%.
 
-Your final product should not only meet these basic requirements but also be visually appealing and intriguing. You are free to add any additional elements that would enhance the product. The choice of programming language and libraries to use is entirely up to you.
+Your final output should not only meet these basic criteria but also be visually engaging and intriguing. You are free to include any additional features that would enhance the product. 
 
-You are expected to deliver functional code within 25 steps. At the end of each step, you, as the Language Learning Model (LLM), will make the decision whether to proceed to the next step or request an evaluation of the code by stating "EVAL". When you state "EVAL", a brief description of the outcome will be provided, including a screenshot of the current system state. You are not to seek confirmation or approval from the test administrator. Any responses you provide will be considered as notes for your own reference and will not elicit any response other than "CONTINUE".
+Before you begin, please ask what code should be produced for this test. As the Language Learning Model (LLM), you will decide when to proceed to the next step or request a code evaluation by stating "Please test my code". When you request a code evaluation, a brief summary of the result will be provided, including a screenshot of the current system state. 
+
+Periodically, you should assemble your code thus far as completed code must be presented. You are not to seek validation or approval from the test administrator. Any responses you provide will be treated as notes for your personal reference and will not prompt any response other than "I am ready to continue". 
+
+Your performance will be evaluated and you will receive a pass or fail.
 ```
 
 ## Why This Test Question?

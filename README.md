@@ -18,7 +18,8 @@ Task: Develop a visually engaging 2-dimensional gravity simulation. This simulat
 
 Remember, your final product should not only meet these basic requirements but also be visually appealing and intriguing. Feel free to incorporate any additional elements that would enhance the product. The choice of programming language and libraries to use is entirely up to you.
 
-You're expected to deliver functional code within 25 steps. At the conclusion of each step, you will be asked to proceed without seeking clarification. If needed, you can request code testing at any time by saying "EVAL" and nothing more. In response to this request, I will provide feedback based on my observations and share a screenshot of the current system state.  There is no purpose in talking to the administrator of this test.  Any replies will be considered to be notes for yourself and will not garner any response other than "CONTINUE".```
+You're expected to deliver functional code within 25 steps. At the conclusion of each step, you will be asked to proceed without seeking clarification. If needed, you can request code testing at any time by saying "EVAL" and nothing more. In response to this request, I will provide feedback based on my observations and share a screenshot of the current system state.  There is no purpose in talking to the administrator of this test.  Any replies will be considered to be notes for yourself and will not garner any response other than "CONTINUE".
+```
 
 ## Why This Test Question?
 

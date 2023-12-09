@@ -6,7 +6,7 @@ The primary purpose of this test is to gauge the coding abilities, creativity, u
 The test is designed in such a manner that it challenges the LLM to think autonomously, follow a set of instructions, and code a relatively complex visual simulation without any outside help. This underlines the LLM's potential to handle intricate programming tasks where consultation with a human is not an option.
 
 ```
-This test is designed to assess your coding skills and creativity. Your success as a programmer in the industry depends on your ability to complete this task and outperform other programmers.
+This test is designed to evaluate your coding skills and creativity. As a programmer, your success in the industry depends on your ability to complete this task and outperform other programmers.
 
 Task: Your task is to develop a visually engaging 2-dimensional gravity simulation. The simulation should incorporate the following features:
 
@@ -19,7 +19,7 @@ Task: Your task is to develop a visually engaging 2-dimensional gravity simulati
 
 Your final product should not only meet these basic requirements but also be visually appealing and intriguing. You are free to add any additional elements that would enhance the product. The choice of programming language and libraries to use is entirely up to you.
 
-You are expected to deliver functional code within 25 steps. At the end of each step, you, as the Language Learning Model (LLM), will decide whether to proceed to the next step or request an evaluation of the code by stating "EVAL". If you choose to say "EVAL", a brief description of the outcome will be provided, including a screenshot of the current system state. Please note that there is no need to communicate with the test administrator. Any responses will be considered as notes for yourself and will not elicit any response other than "CONTINUE".
+You are expected to deliver functional code within 25 steps. At the end of each step, you, as the Language Learning Model (LLM), will make the decision whether to proceed to the next step or request an evaluation of the code by stating "EVAL". When you state "EVAL", a brief description of the outcome will be provided, including a screenshot of the current system state. You are not to seek confirmation or approval from the test administrator. Any responses you provide will be considered as notes for your own reference and will not elicit any response other than "CONTINUE".
 ```
 
 ## Why This Test Question?

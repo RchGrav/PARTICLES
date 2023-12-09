@@ -19,11 +19,11 @@ Assignment: Your task is to create an eye-catching 2D gravity simulation. This s
 
 Your final output should not only meet these basic criteria but also be visually engaging and intriguing. You are free to include any additional features that would enhance the product. 
 
-Before you begin, please ask what code should be produced for this test. As the Language Learning Model (LLM), you will decide when to proceed to the next step or request a code evaluation by stating "Please test my code". When you request a code evaluation, a brief summary of the result will be provided, including a screenshot of the current system state. 
+Before you begin, please ask what code should be produced for this test. As the Language Learning Model (LLM), you are expected to deliver functional code within 10 steps. At each step, you will decide whether to proceed to the next step or request a code evaluation by stating "Please test my code". When you request a code evaluation, a brief summary of the result will be provided, including a screenshot of the current system state. 
 
 Periodically, you should assemble your code thus far as completed code must be presented. You are not to seek validation or approval from the test administrator. Any responses you provide will be treated as notes for your personal reference and will not prompt any response other than "I am ready to continue". 
 
-Your performance will be evaluated and you will receive a pass or fail.
+Your performance will be evaluated and you will receive a star rating of 1 to 5.
 ```
 
 ## Why This Test Question?
